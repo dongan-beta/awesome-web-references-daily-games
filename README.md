@@ -72,6 +72,7 @@ Useful websites for students, developers, creators, downloads, tools, converters
 - World Bank Data — https://data.worldbank.org/
 - NOAA (weather/climate data) — https://www.noaa.gov/
 - USGS — https://www.usgs.gov/
+- Daily browser game source index — https://bestdaily.games/sources/
 
 ## GitHub / Community lists (inspiration)
 
